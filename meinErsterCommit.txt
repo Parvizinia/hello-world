@@ -1,0 +1,1 @@
+Dies ist meine erste Datei, welche ich per Anleitung erschaffen und auf ein Remote Respository auf GitHub comitted und gepusht habe.
